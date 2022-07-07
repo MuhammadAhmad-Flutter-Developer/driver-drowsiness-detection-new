@@ -1,5 +1,5 @@
 dlib==19.19.0
-numpy>=1.18.5
+numpy==1.17.3
 opencv_python==4.5.5.62
 gunicorn
 certifi==2020.6.20
